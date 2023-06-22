@@ -32,15 +32,6 @@
     "november": "Ноя",
     "december": "Дек"
   },
-  "header":{
-    "main":"Главная",
-    "program":"Программа",
-    "speakers":"Спикеры",
-    "news":"пресс-центр",
-    "partners":"Партнеры",
-    "moderators":"модераторы",
-    "uzbekistan":"Об Узбекистане"
-  },
   "meta": {
     "HomePage": {
       "title": "My firstPage title",
