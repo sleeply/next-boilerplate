@@ -1,0 +1,41 @@
+{
+  "short_lang": {
+    "en": "Eng",
+    "ru": "Руc",
+    "uz": "O'z"
+  },
+  "months": {
+    "january": "Январь",
+    "february": "Февраль",
+    "march": "Март",
+    "april": "Апрель",
+    "may": "Май",
+    "june": "Июнь",
+    "july": "Июль",
+    "august": "Август",
+    "september": "Сентябрь",
+    "october": "Октябрь",
+    "november": "Ноябрь",
+    "december": "Декабрь"
+  },
+  "short_months": {
+    "january": "Янв",
+    "february": "Фев",
+    "march": "Март",
+    "april": "Апр",
+    "may": "Май",
+    "june": "Июнь",
+    "july": "Июль",
+    "august": "Авг",
+    "september": "Сен",
+    "october": "Окт",
+    "november": "Ноя",
+    "december": "Дек"
+  },
+  "meta": {
+    "firstPage": {
+      "title": "My firstPage title",
+      "description": "My firstPage description"
+    }
+  }
+}
